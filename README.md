@@ -67,7 +67,7 @@ Follow the Vercel CLI steps, and your assistant will be live! 🌐
 
 ## 📬 Contact
 
-For queries or feedback, feel free to reach out via email at **your-email@example.com**.
+For queries or feedback, feel free to reach out via email at **hariramesh1893@gmail.com**.
 
 💙 **Developed with passion by [Hariharan R](https://www.linkedin.com/in/hariharanr18/).**
 

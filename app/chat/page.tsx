@@ -31,8 +31,9 @@ export default function Chat() {
       if (!response.ok) throw new Error("API response not OK");
 
       const data = await response.json();
-      let formattedResponse = await remark().use(html).process(data.reply);
-      let botText = String(formattedResponse);
+      const formattedResponse = await remark().use(html).process(data.reply);
+      const botText = String(formattedResponse);
+
 
       const botMessage = { text: botText, sender: "bot" as const };
       setMessages((prev) => [...prev, botMessage]);
