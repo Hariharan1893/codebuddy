@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CodeBuddy - AI-Powered Coding Assistant
 
-## Getting Started
+Code-Buddy is a web-based AI-powered coding assistant that helps users with coding queries, explanations. Built using Next.js (App Router) and Tailwind CSS, it features a clean, mobile-responsive UI and integrates Gemini 2.0 for AI-based chat support.
 
-First, run the development server:
+🔗 **Live Demo:** [Code-Buddy](https://codebuddy.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## ✨ Features
+
+- 🤖 **AI Chatbot (Gemini 2.0)** - Get instant coding help from an AI chatbot.
+- 🎨 **User-Friendly UI** - Responsive, clean design with Tailwind CSS.
+- 📱 **Mobile-Responsive Navbar** - Includes a hamburger menu for better usability.
+- 📚 **Light Theme** - Clean UI with white, green, yellow, or blue colors.
+- 🚀 **Fast & Secure** - Powered by Next.js with server-side rendering.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up **Code-Buddy** on your local machine.
+
+### ✅ **1. Clone the Repository**
+
+```sh
+git clone https://github.com/Hariharan1893/codebuddy.git
+cd code-buddy
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ✅ **2. Install Dependencies**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### ✅ **3. Run the Development Server**
 
-## Learn More
+```sh
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Now, visit **[http://localhost:3000](http://localhost:3000)** to see Code-Buddy in action! 🎉
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔧 Technologies Used
 
-## Deploy on Vercel
+- **Next.js (App Router)** - React framework for server-side rendering.
+- **TypeScript** - Ensuring type safety.
+- **Tailwind CSS** - Styling and UI components.
+- **Gemini 2.0** - AI model for chatbot responses.
+- **Vercel** - Deployment and hosting.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌍 Deployment
+
+Code-Buddy is deployed on **Vercel**. To deploy your own version:
+
+```sh
+vercel deploy
+```
+
+Follow the Vercel CLI steps, and your assistant will be live! 🌐
+
+---
+
+## 📬 Contact
+
+For queries or feedback, feel free to reach out via email at **your-email@example.com**.
+
+💙 **Developed with passion by [Hariharan R](https://www.linkedin.com/in/hariharanr18/).**
+
+---
+
+## ⭐ Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repo.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit changes (`git commit -m "Add new feature"`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a **Pull Request**.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to use and modify as needed.
+
+---
+
+### **📌 Key Highlights**
+
+- **Clear introduction** of Code-Buddy.
+- **Getting started guide** for local setup.
+- **Feature list** to showcase functionalities.
+- **Deployment instructions** for Vercel.
+- **Contribution guidelines** for future improvements.
+- **License** details.
