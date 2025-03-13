@@ -1,8 +1,10 @@
 # CodeBuddy - AI-Powered Coding Assistant
 
+![Code-Buddy](public/codebuddy.png)
+
 Code-Buddy is a web-based AI-powered coding assistant that helps users with coding queries, explanations. Built using Next.js (App Router) and Tailwind CSS, it features a clean, mobile-responsive UI and integrates Gemini 2.0 for AI-based chat support.
 
-🔗 **Live Demo:** [Code-Buddy](https://codebuddy.vercel.app/)
+🔗 **Live Demo:** [Code-Buddy](https://yourcodebuddy-one.vercel.app//)
 
 ---
 
